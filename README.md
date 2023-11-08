@@ -1,4 +1,4 @@
-# ✨ 日本語版Godspeedアンケート
+# 日本語版Godspeedアンケート
 - Human Robot Interactionの分野で用いられるGodspeedアンケートの日本語版を作成しました。
 - 実験などでご入り用の際にお使い下さい。
 - ブラウザ上で動作するWebアプリケーションです。
@@ -11,6 +11,7 @@
 
 # ⚙️ 環境構築
 ```
+git clone https://github.com/ohashi3399/godspeed_ja.git
 pip install -r requirements.txt
 ```
 
